@@ -1,1 +1,1 @@
-travel-app-sanskar-react.netlify.app
+https://travel-app-sanskar-react.netlify.app/
